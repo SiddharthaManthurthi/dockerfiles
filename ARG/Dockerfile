@@ -6,5 +6,3 @@ ARG COURSE="Docker" \
     AUTHOR="joindevops"
 RUN echo "Trainer is: ${TRAINER}, version is: ${version}"
 CMD ["sleep", "200"]
-
-sfdgfg
